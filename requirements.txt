@@ -1,0 +1,6 @@
+openai
+llama-index
+chromadb
+whisper
+torch
+pandas
